@@ -11,8 +11,8 @@ I design and build fast, accessible, and scalable web applications using modern 
 
 ## 🏆 Awards & Hackathon Wins
 
-- **3rd Place in Argentina — IonQ & Qollab Quantum Hackathon** (*QWind: Quantum Wind Farm Optimization*)
-- **Local Winner — NASA Space Apps Challenge 2026** (*Tango Horizon: Mars 3D & AI Simulator*)
+- **1st Place (Impact Category) & 3rd Place in Argentina — IonQ & Qollab Quantum Hackathon** (*QWind: Quantum Wind Farm Optimization*)
+- **1st Place Local Winner (Impact Category) — NASA Space Apps Challenge 2026** (*Tango Horizon: Mars 3D & AI Simulator*)
 
 ---
 
