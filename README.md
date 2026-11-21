@@ -9,6 +9,13 @@ I design and build fast, accessible, and scalable web applications using modern 
 
 ---
 
+## 🏆 Awards & Hackathon Wins
+
+- **3rd Place in Argentina — IonQ & Qollab Quantum Hackathon** (*QWind: Quantum Wind Farm Optimization*)
+- **Local Winner — NASA Space Apps Challenge 2026** (*Tango Horizon: Mars 3D & AI Simulator*)
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 - **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, Tailwind CSS, HTML5, CSS3
