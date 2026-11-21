@@ -30,14 +30,10 @@ I design and build fast, accessible, and scalable web applications using modern 
 
 ## 🚀 Featured Projects
 
-| Project | Category | Description | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **TaskFlow Pro** | Full Stack | Collaborative project management platform with real-time Kanban boards, task assignment, and productivity metrics. | Next.js, TypeScript, PostgreSQL, Tailwind CSS |
-| **FinanzApp Dashboard** | Frontend | Personal finance dashboard featuring monthly expense tracking, category budgets, and savings projections. | React, TypeScript, Tailwind CSS, Recharts |
-| **Nexus Store** | Full Stack | Modern e-commerce storefront with filterable catalog, persistent cart, simulated checkout, and inventory admin panel. | Next.js, TypeScript, Prisma, Stripe API |
-| **Pulse API Monitor** | Backend | Availability and latency monitoring service for microservices with scheduled health checks and webhook alerts. | Node.js, TypeScript, Redis, Docker |
-| **DevNotes Studio** | Frontend | Technical Markdown note editor with live preview, syntax highlighting, and keyboard-first navigation. | Next.js, TypeScript, CSS Modules, LocalStorage |
-| **ReservasCloud** | Backend | Multi-branch online booking and appointment engine with overlap prevention and multi-timezone support. | TypeScript, Express, PostgreSQL, JWT |
+| Project | Category | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **QWind: Quantum Wind Farm Optimization** | Quantum Computing | When a wind turbine spins, it slows down the air behind it and reduces power for the next turbine. QWind uses quantum computing (tested on real **IonQ Forte 1** quantum hardware with 93% ideal success rate on valid samples) to choose which turbines stay on and which turn off when a wind farm must curtail output—avoiding wasted clean energy. | Python, Qiskit, Quantum Computing, NumPy, SciPy | [Repo](https://github.com/agustindiazcano/qwind-qaoa-windfarm) · [Demo](https://youtu.be/UGVkgYGXkF4) |
+| **Tango Horizon: Mars 3D & AI Simulator** | AI & 3D Simulation | Because radio signals between Earth and Mars take 4 to 24 minutes each way, astronauts cannot wait for real-time help in an emergency. Built on real NASA Gale Crater maps, Tango Horizon pairs a 3D simulator with a voice AI assistant (5 languages) and autonomous robots/drones to monitor crew health, anticipate storms, and coordinate rescues. | TypeScript, Three.js, Node.js, Python, AI, WebSocket | [Repo](https://github.com/agustindiazcano/nasa-mars-tango-horizon) · [Live Demo](https://tangohorizon.vercel.app) |
 
 ---
 
